@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Weedio",
+    "slug": "Weedio",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.curateup.weedio",
+      "config": {
+        "googleSignIn": {
+          "apiKey": "AIzaSyCrffiyORUn47kDP7fh-0IyubMtXLdrgHs",
+          "certificateHash": "2CA0BF5EF7A5D3A49C407DE3B3802AC69F3215C7"
+          
+        }
+      },
+      "versionCode": 1
+    },
+    "androidNavigationBar": {
+      "backgroundColor": "#FFFFFF"
+    },
+    "androidStatusBar":{
+      "backgroundColor": "#404040",
+      "hidden": true
+    }
+      
+  }
+}
