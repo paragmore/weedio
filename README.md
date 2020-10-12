@@ -1,7 +1,7 @@
 
 # Weedio
 Weedio is a vertically scrolling list of Highly curated addictive videos.
-<img src="logoscreen.jpeg" alt="drawing" width="200"/>
+<img src="/screenshots/logoscreen.jpegg" alt="drawing" width="200"/>
 ![Weedio Logo Screen](/screenshots/logoscreen.jpeg )
 ![Weedio Login Screen](/screenshots/googleLogin.jpeg )
 ![Weedio Portrait Screen](/screenshots/portrait.jpeg )
