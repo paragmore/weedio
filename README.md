@@ -1,6 +1,6 @@
 
 # Weedio
-Weedio is vertical scrolled list of highly curated addictive and entertaining videos categorized in different types.                         
+Weedio is vertical scrolled list of highly curated addictive and entertaining videos categorized in different types. The api for the application is @ https://github.com/paragmore/api_weedio                         
 <img src="/screenshots/logoscreen.jpeg" alt="drawing" width="200"/>
 <img src="/screenshots/googleLogin.jpeg" alt="drawing" width="200"/>
 <img src="/screenshots/portrait.jpeg" alt="drawing" width="200"/>
